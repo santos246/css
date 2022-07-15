@@ -1,1 +1,11 @@
-﻿p { background-color: #40FF00; }
+﻿h1   {
+background-color: blue; 
+color: white;
+}
+p    {
+color: blue;
+font-size: 25px;
+font-style: italic;
+}
+
+
